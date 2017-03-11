@@ -1,5 +1,8 @@
 _repo: The-Universal-Copyright-Convention--1988-_253
-_version: 0.1.0
+_version: 0.2.0
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Coalition for Networked Information
@@ -7,6 +10,8 @@ creator:
     gutenberg_agent_id: '142'
     url: http://www.gutenberg.org/2009/agents/142
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/253#The-Universal-Copyright-Convention--1988-
 gutenberg_issued: '1995-04-01'
 gutenberg_type: Text
 identifiers:
